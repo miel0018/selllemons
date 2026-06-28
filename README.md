@@ -1,1 +1,2 @@
-# selllemons
+# sell lemons
+open source btw 🤓
