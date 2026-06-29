@@ -1,2 +1,3 @@
 # sell lemons
-open source btw 🤓
+open source 🤓
+(I didn't cook ts)
